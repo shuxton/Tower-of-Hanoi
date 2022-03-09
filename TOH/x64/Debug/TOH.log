@@ -1,0 +1,62 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(50,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(54,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(65,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(73,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(77,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(79,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(83,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(85,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(91,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(93,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(99,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(101,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(109,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(111,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(113,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(122,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(130,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(132,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(134,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(142,79): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(142,55): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(142,31): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(154,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(154,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(156,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(156,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(175,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(207,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(207,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(209,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(209,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(219,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(221,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(221,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(231,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(233,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(233,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(242,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(242,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(244,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(244,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(286,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(287,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(318,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(319,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(450,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(474,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(475,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(476,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(477,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(479,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(480,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(484,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(486,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(487,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(488,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(490,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(491,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(493,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\TOH\TOH\Source.cpp(494,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  TOH.vcxproj -> C:\Users\Admin\source\repos\TOH\x64\Debug\TOH.exe
